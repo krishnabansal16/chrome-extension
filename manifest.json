@@ -1,12 +1,12 @@
 {
-    "name": "Your Extension Name",
-    "description": "Your Extension Description", 
+    "name": "copy to multiple",
+    "description": "copy to multiple field", 
 	"icons": { "16" : "icon.png",
  			"48" : "48.png",
 			"128" : "128.png"},
     "browser_action": {
     "default_icon": "icon.png",
-        "default_title": "Your Extension Popup Title", 
+        "default_title": "copy to multiple title", 
         "default_popup": "popup.html"
     }, 
     "manifest_version": 2,
